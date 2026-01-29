@@ -1,0 +1,7 @@
+manifest:
+  enforce_exported: true
+gradle:
+  forbid_local_gradle: true
+  force_wrapper: true
+ci:
+  require_cloud_build: true
